@@ -33,7 +33,7 @@ This Power BI dashboard provides a comprehensive analysis of loan applications, 
 ## 📁 Files Included
 - Bank_Loan_Dashboard.pbix – Power BI report
 - images/ – Screenshots of Summary, Overview, and Detail views
-- sample-data/ – (Optional) sample dataset if allowed
+- sample-data/ - Excel workbook
 
 ## 👤 Author
 **[Samarth Melsingare]**  
