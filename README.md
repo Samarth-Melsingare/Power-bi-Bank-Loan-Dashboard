@@ -37,13 +37,10 @@ This Power BI dashboard provides a comprehensive analysis of loan applications, 
 
 ## 👤 Author
 **[Samarth Melsingare]**  
-Aspiring Data Analyst | Power BI • Excel • SQL  
+Aspiring Data Analyst | Excel • Power BI • SQL • Basic Python 
 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Samarth-Melsingare/Power-bi-Bank-Loan-Dashboard)
 
 ## 🔗 How to Use
 1. Download the .pbix file and open in Power BI Desktop.
 2. Navigate through pages: Summary → Overview → Details.
 3. Use slicers to interact with the report.
-
-## 📜 License
-This project is open for portfolio and educational purposes.
