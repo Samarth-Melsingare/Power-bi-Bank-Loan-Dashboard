@@ -38,7 +38,7 @@ This Power BI dashboard provides a comprehensive analysis of loan applications, 
 ## 👤 Author
 **[Samarth Melsingare]**  
 Aspiring Data Analyst | Excel • Power BI • SQL • Basic Python 
-[LinkedIn](https://www.linkedin.com/in/samarth-melsingare/) | [G-Mail](samarthmelsingare@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/samarth-melsingare/) | [Website](https://www.vitaely.me/profile)
 
 ## 🔗 How to Use
 1. Download the .pbix file and open in Power BI Desktop.
